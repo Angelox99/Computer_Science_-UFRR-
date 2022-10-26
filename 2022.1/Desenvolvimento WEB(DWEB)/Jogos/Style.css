@@ -1,0 +1,18 @@
+h1
+{
+	color: black;
+	font-size: 40px;
+	font-family: comic sans-serif;
+	align: center;
+	margin: 0;
+	padding: 0;
+	background-color: whitesmoke;
+}
+
+p
+{
+	color: whitesmoke;
+	font-size: 20px;
+	font-family: arial;
+	align: center;
+}

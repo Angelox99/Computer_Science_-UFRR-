@@ -1,0 +1,52 @@
+BKP JOGOS HTML:
+
+
+	<h2><u>JOGO #1</u></h2>
+	<br>
+	<h3>DragonBall Fighter Z</h3>
+	<br>
+	<figure>
+		<img src="Figures/Jogos Fig/DragonBall Fighter Z.png" width="500">
+	</figure>
+	<br>
+
+	<Center>
+	<h2><u>JOGO #2</u></h2>
+	<br>
+	<h3>Valorant</h3>
+	<br>
+	<figure>
+		<img src="Figures/Jogos Fig/Valorant.png" width="500">
+	</figure>
+	<br>
+
+	<Center>
+	<h2><u>JOGO #3</u></h2>
+	<br>
+	<h3>Final Fantasy XV</h3>
+	<br>
+	<figure>
+		<img src="Figures/Jogos Fig/Final Fantasy XV.png" width="500">
+	</figure>
+	<br>
+
+	<Center>
+	<h2><u>JOGO #4</u></h2>
+	<br>
+	<h3>Megaman 11</h3>
+	<br>
+	<figure>
+		<img src="Figures/Jogos Fig/Megaman 11.png" width="500">
+	</figure>
+	<br>
+
+	<Center>
+	<h2><u>JOGO #5</u></h2>
+	<br>
+	<h3>Devil May Cry V</h3>
+	Link da Musica Devil Trigger : https://youtu.be/jELlbJLx1XQ
+	<br>
+	<figure>
+		<img src="Figures/Jogos Fig/Devil May Cry V.png" width="500">
+	</figure>
+	<br>
